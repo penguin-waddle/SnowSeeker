@@ -1,7 +1,16 @@
 # SnowSeeker
 
 ## Overview
-SnowSeeker is an engaging iOS app designed for ski enthusiasts, featuring a comprehensive guide to global ski resorts. It combines user-friendly navigation with detailed resort information, like size, pricing, and facilities. The app exemplifies advanced SwiftUI capabilities, including efficient JSON data handling and interactive UI elements. It stands as a testament to building complex, feature-rich iOS applications using SwiftUI.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/SnowSeeker/assets/123434744/460532c6-c8a0-4bae-b1f9-2e440946fa29" alt="SnowSeeker App Demo" width="300" />
+    </td>
+    <td>
+      SnowSeeker is an engaging iOS app designed for ski enthusiasts, featuring a comprehensive guide to global ski resorts. It combines user-friendly navigation with detailed resort information, like size, pricing, and facilities. The app exemplifies advanced SwiftUI capabilities, including efficient JSON data handling and interactive UI elements. It stands as a testament to building complex, feature-rich iOS applications using SwiftUI.
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Resort Exploration**: Users can browse a curated list of ski resorts from various countries.
@@ -44,3 +53,5 @@ SnowSeeker is an engaging iOS app designed for ski enthusiasts, featuring a comp
 *SnowSeeker is part of the "100 Days of SwiftUI" course, focusing on advanced SwiftUI concepts and user interface design.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
